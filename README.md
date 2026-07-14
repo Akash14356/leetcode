@@ -259,5 +259,6 @@ graph TD;
 ## Database
 |  |
 | ------- |
+| [1693-daily-leads-and-partners](https://github.com/Akash14356/leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1965-employees-with-missing-information](https://github.com/Akash14356/leetcode/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
