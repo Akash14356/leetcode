@@ -259,6 +259,7 @@ graph TD;
 ## Database
 |  |
 | ------- |
+| [1587-bank-account-summary-ii](https://github.com/Akash14356/leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/Akash14356/leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1795-rearrange-products-table](https://github.com/Akash14356/leetcode/tree/master/1795-rearrange-products-table) |
 | [1965-employees-with-missing-information](https://github.com/Akash14356/leetcode/tree/master/1965-employees-with-missing-information) |
