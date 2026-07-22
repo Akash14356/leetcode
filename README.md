@@ -271,4 +271,12 @@ graph TD;
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Akash14356/leetcode/tree/master/0056-merge-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Akash14356/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## String
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Akash14356/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
