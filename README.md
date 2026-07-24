@@ -267,6 +267,7 @@ graph TD;
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Akash14356/leetcode/tree/master/0056-merge-intervals) |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Akash14356/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -279,4 +280,16 @@ graph TD;
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akash14356/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Hash Table
+|  |
+| ------- |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Akash14356/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+## Math
+|  |
+| ------- |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Akash14356/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+## Greedy
+|  |
+| ------- |
+| [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Akash14356/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 <!---LeetCode Topics End-->
