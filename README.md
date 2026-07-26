@@ -267,11 +267,13 @@ graph TD;
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Akash14356/leetcode/tree/master/0056-merge-intervals) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Akash14356/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Akash14356/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Akash14356/leetcode/tree/master/0056-merge-intervals) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Akash14356/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akash14356/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -288,6 +290,7 @@ graph TD;
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Akash14356/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Akash14356/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akash14356/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
