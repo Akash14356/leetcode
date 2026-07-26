@@ -268,6 +268,7 @@ graph TD;
 | ------- |
 | [0056-merge-intervals](https://github.com/Akash14356/leetcode/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash14356/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1732-find-the-highest-altitude](https://github.com/Akash14356/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash14356/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Akash14356/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 ## Sorting
@@ -303,4 +304,8 @@ graph TD;
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash14356/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Akash14356/leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
