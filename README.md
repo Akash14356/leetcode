@@ -268,6 +268,7 @@ graph TD;
 | ------- |
 | [0056-merge-intervals](https://github.com/Akash14356/leetcode/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash14356/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Akash14356/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Akash14356/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 ## Sorting
 |  |
@@ -291,10 +292,15 @@ graph TD;
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash14356/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Akash14356/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Akash14356/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akash14356/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Akash14356/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Akash14356/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
