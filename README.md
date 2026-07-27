@@ -269,6 +269,7 @@ graph TD;
 | ------- |
 | [0056-merge-intervals](https://github.com/Akash14356/leetcode/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash14356/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash14356/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Akash14356/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash14356/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Akash14356/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -277,6 +278,7 @@ graph TD;
 | ------- |
 | [0056-merge-intervals](https://github.com/Akash14356/leetcode/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash14356/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash14356/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akash14356/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -309,4 +311,8 @@ graph TD;
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Akash14356/leetcode/tree/master/1732-find-the-highest-altitude) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash14356/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
