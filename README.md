@@ -263,6 +263,7 @@ graph TD;
 | [1693-daily-leads-and-partners](https://github.com/Akash14356/leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Akash14356/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Akash14356/leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [1789-primary-department-for-each-employee](https://github.com/Akash14356/leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/Akash14356/leetcode/tree/master/1795-rearrange-products-table) |
 | [1965-employees-with-missing-information](https://github.com/Akash14356/leetcode/tree/master/1965-employees-with-missing-information) |
 | [3570-find-books-with-no-available-copies](https://github.com/Akash14356/leetcode/tree/master/3570-find-books-with-no-available-copies) |
