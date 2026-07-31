@@ -293,6 +293,7 @@ graph TD;
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akash14356/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash14356/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash14356/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
@@ -305,11 +306,13 @@ graph TD;
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash14356/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash14356/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Akash14356/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash14356/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Akash14356/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Akash14356/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash14356/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash14356/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Number Theory
 |  |
