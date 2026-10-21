@@ -292,6 +292,7 @@ graph TD;
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Akash14356/leetcode/tree/master/0043-multiply-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akash14356/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash14356/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash14356/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -303,6 +304,7 @@ graph TD;
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Akash14356/leetcode/tree/master/0043-multiply-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash14356/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash14356/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Akash14356/leetcode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -330,4 +332,8 @@ graph TD;
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash14356/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Akash14356/leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
